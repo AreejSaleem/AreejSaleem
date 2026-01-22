@@ -1,16 +1,23 @@
 ## Hi there 👋
+I am a Software Engineer AKA a Web Developer focused on building high-performance, scalable web solutions. My work blends front-end engineering, clean UI implementation, and Python-based automation to deliver practical, production-ready systems.
 
-<!--
-**AreejSaleem/AreejSaleem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+What I work on:
+*Front-end development using React, JavaScript, HTML, CSS
+*AI-powered automation and workflow optimization with Python
+*Building responsive, performance-focused websites
+*Applying machine learning concepts 
 
-Here are some ideas to get you started:
+Current focus:
+-Advanced React patterns and UI performance optimization
+-Python automation and AI integration for web products
+-Improving system scalability and clean architecture
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Goals
+# Build impactful, user-centric web products
+# Grow as a software engineer in product-focused teams
+# Contribute to projects where engineering quality and clarity matter
+
+Let’s connect:
+LinkedIn: https://www.linkedin.com/in/areej-saleem101/
+
+GitHub: You’re already here 🙂
