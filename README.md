@@ -8,16 +8,16 @@ What I work on:
 *Applying machine learning concepts <br>
 
 Current focus:
--Advanced React patterns and UI performance optimization
--Python automation and AI integration for web products
--Improving system scalability and clean architecture
+-Advanced React patterns and UI performance optimization <br>
+-Python automation and AI integration for web products <br>
+-Improving system scalability and clean architecture <br>
 
 Goals
--Build impactful, user-centric web products
--Grow as a software engineer in product-focused teams
--Contribute to projects where engineering quality and clarity matter
+-Build impactful, user-centric web products <br>
+-Grow as a software engineer in product-focused teams <br>
+-Contribute to projects where engineering quality and clarity matter <br>
 
 Let’s connect:
 LinkedIn: https://www.linkedin.com/in/areej-saleem101/
-
+<br>
 GitHub: You’re already here 🙂
